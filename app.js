@@ -16,6 +16,7 @@ const userSchema = new mongoose.Schema({
     email : String,
     password : String
 })
+/// as you can start
 
 // const encKey = crypto.randomBytes(32).toString('base64');
 
